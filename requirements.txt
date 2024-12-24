@@ -1,0 +1,10 @@
+python-json-logger
+aiolimiter
+asyncio
+aiohttp
+logging
+aiofiles
+aiohttp-retry
+beautifulsoup4
+requests
+pymysql
